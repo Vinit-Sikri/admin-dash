@@ -28,6 +28,4 @@ A modern, responsive, and customizable React admin dashboard featuring analytics
 ![image](https://github.com/user-attachments/assets/94e5e1a0-19eb-4d20-b521-a466791d9351)
 
 
-## 🛠️ Getting Started
 
-1. **Clone the repo:**
